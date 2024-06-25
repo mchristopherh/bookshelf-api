@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1",
+      "name": "Example Book",
+      "year": 2021,
+      "author": "Author Name",
+      "summary": "This is a summary of the example book.",
+      "publisher": "Example Publisher",
+      "pageCount": 100,
+      "readPage": 50,
+      "finished": false,
+      "reading": true,
+      "insertedAt": "2021-01-01T00:00:00.000Z",
+      "updatedAt": "2021-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Advanced Programming",
+      "year": 2019,
+      "author": "Jane Doe",
+      "summary": "An in-depth look at advanced programming techniques.",
+      "publisher": "Tech Books Publishing Ltd.",
+      "pageCount": 300,
+      "readPage": 300,
+      "finished": true,
+      "reading": false,
+      "insertedAt": "2019-05-20T00:00:00.000Z",
+      "updatedAt": "2019-05-20T00:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "name": "The History of Art",
+      "year": 2018,
+      "author": "John Smith",
+      "summary": "A comprehensive guide to the history of artistic movements.",
+      "publisher": "Art & Culture Press",
+      "pageCount": 250,
+      "readPage": 50,
+      "finished": false,
+      "reading": true,
+      "insertedAt": "2018-11-11T00:00:00.000Z",
+      "updatedAt": "2018-11-11T00:00:00.000Z"
+    }
+]  
